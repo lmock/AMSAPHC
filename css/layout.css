@@ -170,6 +170,7 @@ a.pure-button-primary {
  */
 
 .splash-container {
+    background-image: url("img/health2.jpg");
     background: #1f8dd6;
     z-index: 1;
     overflow: hidden;
