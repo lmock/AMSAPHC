@@ -84,6 +84,12 @@ label {
     text-align: center;
 }
 
+.center {
+    text-align: center;
+}
+.full-width {
+    width: 100%;
+}
 
 
 /*
