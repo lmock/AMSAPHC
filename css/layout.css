@@ -91,6 +91,9 @@ label {
     width: 100%;
 }
 
+.alpha-section {
+    margin: 0 auto;
+}
 
 /*
  * -- PURE FORM STYLES --
